@@ -24,5 +24,4 @@ To start the development server:
 ```
 yarn serve
 ```
-'ws://localhost:8000/ws/pressure/'
 This will launch the Vue.JS application on the local development server, usually accessible at `http://localhost:8080`. The server will attempt to create a WebSocket connection at `ws://localhost:8000/ws/pressure/`, and will display, in real-time, the changing pressure value of an example pressure sensor.
