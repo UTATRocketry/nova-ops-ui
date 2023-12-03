@@ -7,7 +7,7 @@ The front-end ui for NOVA mission control/operations. This repository is written
 
 Add an ssh key to Github ([How to add SSH Key to Github ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)).
 ```
-git clone git@github.com:UTATRocketry/nova-ops-back.git
+git clone git@github.com:UTATRocketry/nova-ops-ui.git
 cd nova-ops-ui
 ```
 2. **Install Dependencies**
