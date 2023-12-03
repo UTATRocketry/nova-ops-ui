@@ -1,4 +1,4 @@
-# NOVA Mission Operations FrontEND
+# NOVA Mission Operations User Interface
 The front-end ui for NOVA mission control/operations. This repository is written in the Vue.JS 3 framework. Note: At the time of writing, this repository is incomplete, and should only be used as a testing playground environment.
 
 ## Installation
